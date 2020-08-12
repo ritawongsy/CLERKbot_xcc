@@ -1,0 +1,236 @@
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- request_create_event
+- inform
+- greet
+- goodbye
+- affirm
+- deny
+- thank_you
+- ask_route
+- ask_schedule
+- tell_radius
+- ask_restaurant
+- start
+- ask_covid_cases
+- district
+- ask weather
+- stop
+- trigger_rephrase
+- chitchat:
+    use_entities: []
+- EXTERNAL_reminder:
+    triggers: action_react_to_reminder
+- out_of_scope:
+    triggers: respond_out_of_scope
+    use_entities: []
+entities:
+- summary
+- location
+- time
+- district
+- radius
+- number
+- locaton
+slots:
+  current_w:
+    type: unfeaturized
+  desc_w:
+    type: unfeaturized
+  dest:
+    type: unfeaturized
+  destination:
+    type: unfeaturized
+  district:
+    type: unfeaturized
+  end_time:
+    type: unfeaturized
+    auto_fill: false
+  end_time_2:
+    type: unfeaturized
+  event_link:
+    type: unfeaturized
+  forecast:
+    type: unfeaturized
+  link:
+    type: unfeaturized
+  location:
+    type: unfeaturized
+  location_2:
+    type: unfeaturized
+  number:
+    type: unfeaturized
+  origin:
+    type: unfeaturized
+  origin_lat:
+    type: unfeaturized
+  origin_lng:
+    type: unfeaturized
+  radius:
+    type: unfeaturized
+  requested_slot:
+    type: unfeaturized
+  rest_nearby:
+    type: unfeaturized
+  success:
+    type: categorical
+    values:
+    - success
+    - fail
+  summary:
+    type: unfeaturized
+    auto_fill: false
+  summary_2:
+    type: unfeaturized
+  time:
+    type: unfeaturized
+    auto_fill: false
+  time_2:
+    type: unfeaturized
+responses:
+  utter_greet:
+  - text: Hi! How may I help?
+  - text: Hey! How may I help you today?
+  utter_more_info:
+  - text: Let's get to know more the details first 😉
+  - text: Let me know more about the upcoming event :)
+  utter_goodbye:
+  - text: Bye
+  - text: See you next time! Have a nice day!
+  - text: See you!
+  utter_ask_summary:
+  - text: What is the title of the event?
+  - text: What event is it?
+  - text: What do you want me to call this event?
+  utter_ask_time:
+  - text: What is the date and time?
+  - text: Can you please tell me the date and time of the event?
+  - text: When is the event?
+  utter_ask_location:
+  - text: Where is it happening?
+  - text: Where is it?
+  utter_submit:
+  - text: All done!
+  utter_confirm_schedule_details:
+  - text: Please confirm the details.
+  - text: Pleasa check if the above details are correct.
+  utter_create_event:
+  - text: Do you want to mark on your calendar?
+  utter_wrong_time:
+  - text: The date and time is not clear. Can you rephrase, please?(e.g. March 1 at
+      3pm-5pm or 12/23 5pm)
+  - text: "Can you please put the date and time in the following format. \n(e.g. March\
+      \ 1 at 3pm-5pm or 12/23 5pm)"
+  utter_default:
+  - text: Sorry, I didn't understand. Try again...
+  utter_map_link:
+  - text: "You can reach {destination} by driving, public transit, or walking.\nClick\
+      \ this link to the Google Maps page:\n{link}"
+  utter_anything_else:
+  - text: Let me know if you need anything else.
+  utter_you_are_welcome:
+  - text: Welcome!:)
+  utter_time_conflicts:
+  - text: Requested time conflicts with another event.
+  utter_welcome_msg:
+  - text: "Hello there! I am your smart assistant CLERKbot.\nI offer services such\
+      \ as scheduling events, route planning, weather forecast, and restaurants nearby.\n\
+      \ We also set reminders for events coming up so you are always on time!"
+  utter_ask_again:
+  - text: Please tell me the details again.
+  utter_reschedule:
+  - text: Would you like to reschedule the meeting?
+  utter_covid_case:
+  - button_type: vertical
+    buttons:
+    - payload: /district{"district":"Central & Western"}
+      title: Central & Western
+    - payload: /district{"district":"Eastern"}
+      title: Eastern
+    - payload: /district{"district":"Islands"}
+      title: Islands
+    - payload: /district{"district":"Kowloon City"}
+      title: Kowloon City
+    - payload: /district{"district":"Kwai Tsing"}
+      title: Kwai Tsing
+    - payload: /district{"district":"Kwun Tong"}
+      title: Kwun Tong
+    - payload: /district{"district":"North"}
+      title: North
+    - payload: /district{"district":"Sai Kung"}
+      title: Sai Kung
+    - payload: /district{"district":"Sha Tin"}
+      title: Sha Tin
+    - payload: /district{"district":"Sham Shui Po"}
+      title: Sham Shui Po
+    - payload: /district{"district":"Southern"}
+      title: Southern
+    - payload: /district{"district":"Tai Po"}
+      title: Tai Po
+    - payload: /district{"district":"Tsuen Wan"}
+      title: Tsuen Wan
+    - payload: /district{"district":"Tuen Mun"}
+      title: Tuen Mun
+    - payload: /district{"district":"Wan Chai"}
+      title: Wan Chai
+    - payload: /district{"district":"Wong Tai Sin"}
+      title: Wong Tai Sin
+    - payload: /district{"district":"Yau Tsim Mong"}
+      title: Yau Tsim Mong
+    - payload: /district{"district":"Yuen Long"}
+      title: Yuen Long
+    channel: telegram
+    custom:
+    text: Which district of number of buildings with confirmed case you want to know?
+  utter_ask_help:
+  - text: How may I help?
+  utter_ask_radius:
+  - text: 'Within how many meters? (Example: 500)'
+  utter_ask_continue:
+  - text: do you want to continue?
+  utter_calendar_link:
+  - text: "You can click this link to the google calendar page:\n[ ](https://calendar.google.com/calendar/embed?src=xccproject12%40gmail.com&ctz=Asia%2FHong_Kong)"
+actions:
+- utter_greet
+- utter_goodbye
+- utter_ask_summary
+- utter_ask_time
+- utter_ask_location
+- utter_submit
+- utter_more_info
+- action_create_event
+- utter_confirm_schedule_details
+- utter_create_event
+- action_route_plan
+- action_suggest
+- action_get_weather
+- action_weather_report
+- utter_wrong_time
+- utter_default
+- utter_ask_again
+- action_reset_event_slots
+- utter_map_link
+- action_today_schedule
+- action_set_reminder
+- action_react_to_reminder
+- utter_anything_else
+- utter_you_are_welcome
+- utter_time_conflicts
+- utter_welcome_msg
+- action_covid
+- utter_covid_case
+- action_search_restaurant
+- action_suggest_rest
+- utter_ask_help
+- utter_ask_radius
+- action_copy_slot
+- action_check_destination
+- utter_ask_continue
+- respond_chitchat
+- utter_reschedule
+- respond_out_of_scope
+- utter_calendar_link
+forms:
+- event_form

@@ -1,0 +1,396 @@
+AIA Tower
+Bank of America Tower
+Bank of China Tower
+Central Plaza
+Cheung Kong Centre
+Cityplaza
+Cyberport
+Exchange Square One
+Exchange Square Two
+Exchange Square Three
+Hopewell Centre
+HSBC Hong Kong headquarters building
+Hysan Place
+Lippo Centre
+Murray House
+Pacific Place
+Standard Chartered Bank Building
+International Commerce Centre
+International Finance Centre
+Manulife Plaza
+Prince's Building
+Shui On Centre
+Taikoo Place
+The Center
+Wing On House
+World-Wide House
+St. John's Cathedral
+Wong Tai Sin Temple
+AsiaWorld-Expo
+Central Police Station
+Chinese People's Liberation Army Forces Hong Kong Building
+Chungking Mansions
+Flagstaff House
+Government House
+The Harbourside
+Hong Kong Academy for Performing Arts
+Hong Kong China Temple
+Hong Kong Convention and Exhibition Centre
+Hong Kong International Trade and Exhibition Center
+Hong Kong Visual Arts Centre
+Jardine House
+Legislative Council of Hong Kong
+Liaison Office of the Central People's Government
+Prince of Wales Hospital
+Tung Chung Fort
+Union Square
+Yiu Tung Public Library
+Allied Plaza
+Amoy Gardens
+Apm (Hong Kong)
+Chater House
+Cheung Sha Wan Plaza
+China Hong Kong City
+Chungking Mansions
+City One Plaza
+Citygate
+Citylink Plaza
+Cityplaza
+Citywalk, Hong Kong
+Concord Square
+Discovery Park
+Domain
+Dragon Centre
+East Point City
+Elements, Hong Kong
+Fashion Walk
+Festival Walk
+The Gateway, Hong Kong
+Golden Shopping Arcade
+Grand Central Plaza
+Grand Waterfront
+Harbour City
+Ho King Commercial Building
+Ho King Shopping Centre
+Hysan Place
+International Finance Centre (Hong Kong)
+ISQUARE
+K11 (Hong Kong)
+King Wah Centre
+Kolour Tsuen Wan
+Kowloon City Plaza
+Kowloonbay International Trade & Exhibition Centre
+Kwai Chung Plaza
+The Laguna Mall
+Landmark North
+The Landmark (Hong Kong)
+Langham Place (Hong Kong)
+Lee Garden One
+LHT Tower
+Luk Yeung Galleria
+Ma On Shan Plaza
+Man Yee Building
+Maritime Square
+MegaBox (shopping mall)
+Metro City (Hong Kong)
+Metro Harbour View
+Metroplaza
+Mikiki
+Millennium City, Hong Kong
+Mira Place
+Grand Century Place
+Mong Kok Computer Centre
+MOSTown
+Nan Fung Centre
+New Town Plaza
+New World Centre
+Nina Tower
+Ocean Terminal, Hong Kong
+Olympian City
+The One (shopping centre)
+Pacific Place (Hong Kong)
+Park Central (Hong Kong)
+The Peak Galleria
+Peak Tower
+Plaza Hollywood
+Prince's Building
+The Pulse (shopping mall)
+QRE Plaza
+Residence Oasis
+Sceneway Plaza
+Shatin Centre
+Shatin Plaza
+Silvercord
+Sin Tat Plaza
+Sino Plaza
+Skyline Plaza (Hong Kong)
+Star House
+Sun Yuen Long Centre
+Tai Po Mega Mall
+Telford Plaza
+Times Square (Hong Kong)
+Tsim Sha Tsui Centre and Empire Centre
+Tsuen Wan Plaza
+Tuen Mun Town Plaza
+Tung Ying Building
+Windsor House (Hong Kong)
+World Trade Centre (Hong Kong)
+World-Wide House
+Yoho Mall
+Yoho Town
+City University of Hong Kong
+Hong Kong Baptist University
+Lingnan University
+The Chinese University of Hong Kong
+The Education University of Hong Kong
+The Hong Kong Polytechnic University
+The Hong Kong University of Science and Technology
+The University of Hong Kong
+Admiralty
+Airport
+AsiaWorld-Expo
+Austin
+Causeway Bay
+Central
+Chai Wan
+Che Kung Temple
+Cheung Sha Wan
+Choi Hung
+City One
+Diamond Hill
+Disneyland Resort
+East Tsim Sha Tsui
+Fanling
+Fo Tan
+Fortress Hill
+Hang Hau
+Heng Fa Chuen
+Heng On
+Hong Kong
+Hung Hom
+Jordan
+Kam Sheung Road
+Kowloon
+Kowloon Bay
+Kowloon Tong
+Kwai Fong
+Kwai Hing
+Kwun Tong
+Lai Chi Kok
+Lai King
+Lam Tin
+Lo Wu
+LOHAS Park
+Lok Fu
+Lok Ma Chau
+Long Ping
+Ma On Shan
+Mei Foo
+Mong Kok
+Mong Kok East
+Nam Cheong
+Ngau Tau Kok
+North Point
+Olympic
+Po Lam
+Prince Edward
+Quarry Bay
+Racecourse
+Sai Wan Ho
+Sha Tin
+Sha Tin Wai
+Sham Shui Po
+Shau Kei Wan
+Shek Kip Mei
+Shek Mun
+Sheung Shui
+Sheung Wan
+Siu Hong
+Sunny Bay
+Tai Koo
+Tai Po Market
+Tai Shui Hang
+Tai Wai
+Tai Wo
+Tai Wo Hau
+Tin Hau
+Tin Shui Wai
+Tiu Keng Leng
+Tseung Kwan O
+Tsim Sha Tsui
+Tsing Yi
+Tsuen Wan
+Tsuen Wan West
+Tuen Mun
+Tung Chung
+University
+Wan Chai
+Wong Tai Sin
+Wu Kai Sha
+Yau Ma Tei
+Yau Tong
+Yuen Long
+Grantham Hospital
+MacLehose Medical Rehabilitation Centre
+Queen Mary Hospital
+The Duchess of Kent Children's Hospital at Sandy Bay
+Tsan Yuk Hospital
+Tung Wah Group of Hospitals Fung Yiu King Hospital
+Tung Wah Hospital
+Cheshire Home
+Pamela Youde Nethersole Eastern Hospital
+Ruttonjee Hospital
+St. John Hospital
+Tang Shiu Kin Hospital
+Tung Wah Eastern Hospital
+Wong Chuk Hang Hospital
+Chung Hom Kok
+Hong Kong Buddhist Hospital
+Hong Kong Children's Hospital
+Hong Kong Eye Hospital
+Kowloon Hospital
+Queen Elizabeth Hospital
+Caritas Medical Centre
+Kwai Chung Hospital
+Kwong Wah Hospital
+North Lantau Hospital
+Our Lady of Maryknoll Hospital
+Princess Margaret Hospital
+TWGHs Wong Tai Sin Hospital
+Yan Chai Hospital
+Haven of Hope Hospital
+Tseung Kwan O Hospital
+United Christian Hospital
+Alice Ho Miu Ling Nethersole Hospital
+Bradbury Hospice
+Cheshire Home, Shatin
+North District Hospital
+Prince of Wales Hospital
+Shatin Hospital
+Tai Po Hospital
+Castle Peak Hospital
+Pok Oi Hospital
+Siu Lam Hospital
+Tin Shui Wai Hospital
+Tuen Mun Hospital
+Canossa Hospital
+Evangel Hospital
+Gleneagles Hong Kong Hospital
+Hong Kong Adventist Hospital
+Hong Kong Baptist Hospital
+Hong Kong Sanatorium & Hospital
+Matilda International Hospital
+People's Liberation Army Garrison Hospital
+Precious Blood Hospital
+St. Paul's Hospital
+St. Teresa's Hospital
+Union Hospital
+CUHK Medical Centre
+Gleneagles Hong Kong Hospital
+Queen Mary Hospital
+Prince of Wales Hospital
+Prince Philip Dental Hospital
+Airport Core Programme Exhibition Centre
+Art Museum of the Chinese University of Hong Kong
+Dr Sun Yat-sen Museum (Hong Kong)
+Fanling Environmental Resource Centre
+Fireboat Alexander Grantham Exhibition Gallery
+Flagstaff House Museum of Tea Ware
+Tao Heung Foods of Mankind Museum
+Health Education Exhibition and Resource Centre
+Hong Kong Monetary Authority Information Centre
+Hong Kong Correctional Services Museum
+Hong Kong Film Archive
+Hong Kong Heritage Discovery Centre
+Hong Kong Heritage Museum
+Hong Kong House of Stories
+Hong Kong Housing Authority Exhibition Centre
+Hong Kong Immigration Museum
+Hong Kong Maritime Museum
+Hong Kong Museum of Art
+Hong Kong Museum of Coastal Defence
+Hong Kong Museum of Education
+Hong Kong Museum of History
+Hong Kong Museum of Medical Sciences
+Hong Kong Police Museum
+Hong Kong Public Records Building
+Hong Kong Racing Museum
+Hong Kong Railway Museum
+Hong Kong Science Museum
+Hong Kong Space Museum
+Hong Kong Visual Arts Centre
+The Peak
+Mid-Levels
+Stanley
+Repulse Bay
+Tai Tam
+Aberdeen
+Ap Lei Chau
+Cape D'Aguilar
+Deep Water Bay
+Pok Fu Lam
+Repulse Bay
+Shek O
+Shouson Hill
+Stanley
+Tai Tam
+Wah Fu
+Wong Chuk Hang
+Cenotaph, Hong Kong
+Chater Garden
+Exchange Square
+Former Supreme Court Building
+Harcourt Garden
+Hong Kong Zoological and Botanical Gardens
+Hong Kong Club
+Hong Kong Park
+HSBC Hong Kong headquarters building
+International Finance Centre
+Jardine House
+Lan Kwai Fong
+Legislative Council building
+Lippo Centre
+Old Bank of China Building
+Peak Tram terminus
+St. John's Cathedral
+St. Joseph's College
+St. Paul's Co-educational College
+SoHo
+Statue Square
+Butterfly Beach
+Castle Peak Beach
+Cafeteria Old Beach 
+Cafeteria New Beach
+Golden Beach 
+Casam Beach 
+Lido Beach 
+Ting Kau Beach 
+Approach Beach 
+Ma Wan Tung Wan Beach 
+Trio Beach
+Kiu Tsui Beach
+Hap Mun Bay Beach
+Silverstrand Beach
+Clear Water Bay First Beach
+Clear Water Bay Second Beach
+Deep Water Bay Beach
+Repulse Bay
+Middle Bay Beach
+South Bay Beach
+Chung Hom Kok Beach
+St.Stephen's Beach
+Stanley Main Beach
+Hairpin Beach
+Turtle Cove Beach
+Shek O Beach
+Rocky Bay Beach
+Big Wave Bay Beach
+Hung Shing Yeh Beach
+Lo So Shing Beach
+Kwun Yam Beach
+Cheung Chau Tung Wan Beach
+Silvermine Bay Beach
+Pui O Beach
+Upper Cheung Sha Beach
+Lower Cheung Sha Beach
+Tong Fuk Beach

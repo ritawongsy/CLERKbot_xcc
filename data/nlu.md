@@ -1,0 +1,1007 @@
+## intent:request_create_event
+- pls schedule a meeting
+- can you please mark 3-4pm on this friday for me?
+- Set an appointment
+- I have a meeting
+- Need an appointment
+- please create an event for me
+- i have a dinner
+- i want to set a meeting on next friday
+- i have a meeting at [isquare](location) tomorrow
+- I have a [Dinner date](summary)
+- I am going to [Timesquare](location) later
+- Create event
+- I have something to do this afternoon
+- I have an event this evening
+- I am attending a meeting later
+- I want to update my calendar
+- Make sure I go [Science Park](location) tomorrow
+- Make an event
+- make an event pls
+- I have to go [YOHO Town](location) next week
+- Recall me to do [K11] later
+- Important event tonight
+- ok then help me make an event
+- alright, i need to update my calendar
+- please schedule an event for me
+- please mark a event on my calendar
+- Please schedule appointment for next Saturday. 
+
+## intent:inform
+- I will meet with the [President](summary) at [Hong Kong Museum](location) on Friday. 
+- Meeting on 15 of September with [family](summary).
+- Meeting on 23 of September with [Peter](summary). 
+- meeting on Mar 24 at 8pm with [family](summary).
+- meeting on 22 Nov at 2pm with [Jezzie](summary).
+- [Group meeting](summary) on Monday morning at 9.
+- [Mum's Birthday dinner](summary) on March 9 at [Hong Kong hotel](location).
+- [dad's Birthday dinner](summary) on Dec 1 at [hotel](location).
+- [heidi's wedding dinner](summary) on Dec 2 at [SOHO](location).
+- [brother's graduation ceremony](summary) on friday at [HKUST](location).
+- Schedule appointment on Tuesday at 12 for [lunch with brother](summary). 
+- Having [breakfast with classmates](summary) at [Mongkok](location) on Thursday at 7.
+- Having [meeting with boss](summary) at [office](location) on Thursday at 2pm
+- Having [helloween paty](summary) at [ocean park](location)
+- I want to schedule a [doctor appointment](summary) on Sunday morning at [Wan Chai](location).
+- I want to schedule a [new appointment](summary) on Monday morning in [Sha Tin](location).
+- got a [dinner](summary) at 7
+- [family gathering](summary) at [hysan](location) tonight
+- [business meeting with louis](summary) tonight at 8pm
+- [business meeting with sara](summary) tonight at 6pm
+- [lunch meeting with James](summary) on Friday at 2pm
+- [shopping with Debbie](summary) tmr at 1pm
+- schedule an event with [ted](summary) for tmr
+- schedule an event with [Tina](summary) for tmr 7pm
+- schedule an event with [Candy](summary) for next Friday
+- schedule an event with [Christy](summary) for tmr
+- i have [an exam](summary) in [wan chai](location) tmr at 8am
+- it's a [monthly meeting](summary)
+- [Annual Flight Operations Conference](summary)
+- the dinner will be tomorrow 7:30pm at [Olympian City](location)
+- I am watching a [concert](summary) at [Hung Hom Stadium](location) tonight
+- I have a [party](summary) in [Lan Kwai Fong](location) tomorrow
+- I have a [talk](summary) in [HKU](location) today at 2
+- I have a [class](summary) in [Xccelerate](location) on Friday 7pm
+- I have a [boat party](summary) in [Tai Po](location) tomorrow
+- [Lunch date](summary) in [Kwun Tong](location)
+- Playing [golf](summary) with my friends tommorrow
+- Playing [basketball](summary) with my friends tommorrow
+- Playing [football](summary) with family tonight
+- Playing [card game](summary) with my friends at [cafe] tmr at 7pm
+- [Boat Party](summary) in [Sai Kung](location)
+- [Welcome Party](summary) in [Central](location)
+- [Christmas Party](summary) in [Hotel Icon](location)
+- [Pajamas Party](summary) in [Four Seasons Hotel](location)
+- I need to [buy my son a gift](summary) in [Toys'R'Us](location)
+- please set it is a [conference with senior management](summary)
+- Help me create a [lunch meeting with Alice](summary) on Thu at 1pm
+- I will meet [Thomas](summary) at [Science Part](location) on Mon 9am. 
+- Meeting on 15 of September with [pan](summary). 
+- [Evaluation meeting](summary) on Tuesday morning at 9.
+- [Ashley's Bridal Shower](summary) on March 9 at [Four Seasons hotel](location). 
+- Schedule appointment on Tuesday at 12 for [lunch with sister](summary). 
+- Having [dinner with fd](summary) at [Yau Ma Tei](location) on tmr at 10. 
+- I want to schedule a [doctor appointment](summary) on Sunday afternoon at [Wan Chai](location).
+- got a [dating](summary) at 7
+- [family reunion](summary) at [hysan](location) tonight at 7pm
+- [business meeting with Sarah](summary) tonight at 8pm
+- schedule an event with [ted](summary) for tmr
+- i have [an exam](summary) in [Tai Kok Tsui](location) tmr at 8am
+- it's a [monthly meeting](summary)
+- the dinner will be tomorrow 7:30pm at [Olympian City](location)
+- I am watching a [concert](summary) at [Hung Hom Stadium](location) next Friday 7pm
+- I have a [party](summary) in [Lan Kwai Fong](location) tomorrow
+- [Lunch date](summary) in [Kwun Tong](location)
+- Playing [golf](summary) with my friends tommorrow
+- [Boat Party](summary) in [Sai Kung](location)
+- I need to [buy my son a gift](summary) in [Toys'R'Us](location)
+- please set it is a [conference with senior management](summary)
+- I have a [lunch meeting](summary) on Friday 7pm at [IFC](location)
+- I have a [farewell party](summary) at [Times Square](location) on next Mon 10am
+- I have a [doctor appointment](summary) on this Mon 2pm at [Isquare](location)
+- I have a [python class](summary) at [Xccelerate](location) on next Mon 10am
+- oh... then change the time to Aug 14 8pm
+- umm.. then pls change to 7pm
+- oh... change the time to 8pm then
+- umm.. pls change to 3pm then
+- ok... then set the time to 9am 
+- set the time to 10am plx
+- change it to 2pm please
+- change the time to 9am then
+
+
+## intent:ask_route
+- how to get there?
+- What's the quickest way to get there?
+- How do I get there?
+- How far is it?
+- where is it?
+- route suggestions
+- I need some suggestions on route
+- Can you show me the way
+- Is it far?
+- how to get [Sha Tin Racecourse](location)?
+- get me to [Xccelerate](location)
+- Do you know how to reach [The Landmark](location)?
+- how to go [AIA Tower](location)?
+- How do I get to [Bank of America Tower](location)?
+- Which road should I take to get to [Panda Hotel](location)?
+- In which direction is the nearest [shopping mall](location)?
+- What is the quickest route to [New Town Plaza](location))?
+- Can you show me which way to go using the map?
+- Could you please guide me?
+- Where is [Lippo Centre](location)?
+- What direction should I take?
+- Where is [Hopewell Centre](location)?
+- how to get to [Cyberport](location)?
+- I want to go [science park](location), do you know how to go?
+- Route suggestion pls!
+- How to get there please.
+- need google map!
+- Google map
+- how to get to [tai po](location)?
+- how to get to [pok fu lam](location)?
+- how to get to [The Harbourside](location)?
+- how to go to [Tuen Mun Hospital](location)?
+- how to go to [Diamond Hill](location)?
+- how to go to [Hong Kong Museum of Art](location)?
+- where is [Butterfly Beach](location)
+- where is [Tsuen Wan](location)?
+- where is [Sha Tin Wai](location)?
+- where is [LOHAS Park](location)?
+- please set it to next mon 9pm
+- how to get [times square](location)?
+- how to get [yoho mall](location)?
+- how to get to [science park](location)?
+
+
+## intent:ask weather
+- Are there any meteorological changes that I need to be aware of?
+- Beautiful day, isn't it?
+- Can I ask you something about weather
+- Can we expect any thunderstorms?
+- Do you have good weather?
+- How is the weather today?
+- How is the weather?
+- How is weather today
+- Is it hot or cold?
+- Is it humid out there today?
+- Is it quite breezy outside?
+- Is it raining
+- Is it raining?
+- Looks like a beautiful day hey?
+- Nice day out today?
+- Weather?
+- What is the temperature today?
+- What is the weather at your place?
+- What is the weather for tomorrow?
+- What is the weather in newyork?
+- What's it like out there?
+- What's the weather forecast?
+- What's the weather like over there?
+- What's the weather like where I am right now?
+- What's the weather like?
+- Will I require my raincoat today?
+- Will the skies be clear today?
+- Will I require my umbrella today?
+- excellent - is it hot in hongkong?
+- how is the weather
+- how is the weather?
+- is it hot outside?
+- is it sunny
+- is the sun out where you are?
+- temperature?
+- what is the temperature
+- how hot is it?
+- is it hot out?
+- weather forecast
+- hot??
+- raining?
+- cold today?
+
+## intent:ask_schedule
+- what is my schedule for today?
+- please check my schedule for today.
+- whats the schedule for today?
+- todays schedule
+- schedule for today
+- schedule
+- Upcoming events
+- Remind me what do I have to do today
+- What's in today's schedule
+- Remind me today's schedule
+- Where am I going today?
+- wt's my next job
+- what's my schedule
+- Check my Itinerary
+- my schedule for today please!
+- any event for today?
+- do I need to meet anyone today?
+- Do I have any meeting today?
+- do i have a meeting today?
+- what's upcoming?
+
+
+## intent:ask_covid_cases
+- how many COVID cases today?
+- number of covid cases
+- COVID cases
+- covid case now
+- How may COVID?
+- how's the covid situation in hk?
+- is it covid cases are increasing??
+- is it covid cases are decreasing?  
+- COVID-19
+- covid-19
+- how many coronavirus COVID-19 now?
+- what's wuhan virus?
+- How dangerous is the coronavirus disease?
+- How serious is Hong Kong's covid-19?
+- How serious is HK's covid?
+- Coronavirus disease 2019
+- covid
+- COVID
+- Covid
+- what's the number of cases today?
+- wt's the no. of today?
+- whats the num of cases now?
+
+
+## intent:district
+- Central & Western
+- Eastern
+- Islands
+- Kowloon City
+- Kwai Tsing
+- Kwun Tong
+- North
+- Sai Kung
+- Sha Tin
+- Sham Shui Po
+- Southern
+- Tai Po
+- Tsuen Wan
+- Tuen Mun
+- Wan Chai
+- Wong Tai Sin
+- Yau Tsim Mong
+- Yuen Long
+
+## intent:ask_restaurant
+- Any good restaurants nearby?
+- Can you find a restaurant for me?
+- Can you find me a restaurant?
+- Can you recommend a restaurant open right now
+- Could you find a restaurant for me?
+- Could you find me a restaurant to eat at?
+- Could you find me a restaurant?
+- Do you find me a restaurant?
+- Do you seek me a restaurant?
+- Find a restaurant for me to eat at.
+- Find a restaurant for me where I can eat.
+- Find a restaurant for me?
+- Find me a place to eat
+- Find me a restaurant where I can eat.
+- Have you seen me a restaurant?
+- Help me find a restaurant
+- Help me with finding this restaurant
+- Hey help me find a restaurant
+- Hi, can you give me the nearest fast food place?
+- How can you help me find a restaurant.
+- I am hungry, find me some place to go
+- I need a new restaurant
+- I need a restaurant.
+- I need to find this restaurant
+- I'm gonna need help finding a restaurant
+- IS there any near by restaurant?
+- Is there any restaurant?
+- Pick a restaurant for me, please
+- Recommend me a restaurant around here.
+- Show me how to find a restaurant
+- Show me the closest open restaurant
+- Suggest me a good restaurant around
+- What restaurant would you recommend for dinner?
+- What's a good place to eat nearby
+- What's the closest restaurant open near me
+
+
+## intent:tell_radius
+- 500 meters
+- 1000
+- 200 m
+- 100 meters
+- 400
+- 800
+- 100m
+- 1450M
+- 2000 Meters
+
+
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- good afternoon
+- Hey Clerkbot!
+- Hi
+
+
+## intent:goodbye
+- Bye
+- goodbye
+- see you around
+- see you later
+- see you next time
+- ciao
+- Bye!
+- 88
+- byebye!
+- cu
+- c u
+- See you
+
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+- yep
+- that's right
+- true
+- right
+- yea
+- yah
+- Yes please
+- alright
+- its correct
+- perfect
+- uh yes
+- let's do it
+- um yes
+- that's correct
+- yes yes
+- yes right
+- yes and i dont care
+- right on
+- i love that
+- cool!
+- nice
+- ok
+- okok
+- okay
+- okie
+- okieeee
+- OKOK
+- OK
+
+## intent:deny
+- no
+- never
+- I don't think so
+- no way
+- not really
+- nope
+- wrong
+- Thats wrong
+- nah
+- uh no
+- nope
+- you are wrong
+- No!!
+- um no
+- no...
+- it's not correct
+- WRONG!!
+- Nope!!
+- absolutely not
+- Nah
+- Neither
+- Never
+- No
+- No thank you
+- No, not really.
+- No, thank you
+
+
+
+## intent:stop
+- ok then you cant help me
+- that was shit, you're not helping
+- you can't help me
+- you can't help me with what i need
+- i guess you can't help me then
+- ok i guess you can't help me
+- that's not what i want
+- ok, but that doesnt help me
+- this is leading to nothing
+- this conversation is not really helpful
+- you cannot help me with what I want
+- I think you cant help me
+- hm i don't think you can do what i want
+- stop
+- stop go back
+- do you get anything?
+- and you call yourself bot company? pff
+- and that's it?
+- nothing else?
+
+## intent:thank_you
+- Thanks
+- thank you
+- Thx
+- thanks
+- love you
+- cheers
+- um thank you good bye
+- okay cool uh good bye thank you
+- okay thank you good bye
+- you rock
+- thats all thank you and good bye
+- thank you and good bye
+- sorry about my mistakes thank you good bye
+- noise thank you good bye
+- thank you goodbye noise
+- okay thank you goodbye
+- uh thank you good bye
+- thank you goodbye
+- thank you goodbye noise thank you goodbye
+- breath thank you goodbye
+- okay thank you
+- thanks goodbye
+- ah thank you goodbye
+
+
+## intent:start
+- /start
+- start
+
+## intent:chitchat/ask_builder
+- By whom were you built?
+- Can I ask the name of the people who designed you?
+- Do you know who built you?
+- Do you know who made you?
+- Tell me the name of the person who built you.
+- Who built you?
+- Who created and built you?
+- Who developed you?
+- Who is the name of your builder?
+- Who is the person that invented you?
+- Who made you?
+- Who's your boss?
+- i want to know the company which designed you
+- tell me more about you
+- who are your parents
+- who built you?
+- who developed
+- who is your boss tell me
+- who is your daddy
+- who is your employer?
+- who is your father ?
+- who is your mom
+- who is your parent?
+- why you call CLERKbot?
+- Why your name is clerknot?
+
+## intent:chitchat/ask_howbuilt
+- By what means were you made?
+- By what method were you fashioned?
+- Can you explain how you were created?
+- Do you know how you were built?
+- How did you come into being?
+- How exactly were you devised?
+- How exactly were you made?
+- How were you formed?
+- I want to know how you were formed
+- Id like to know how you were created
+- Id like to know how you were put together?
+- In what manner were you built?
+- In what manner were you constructed?
+- In what manner were you formed?
+- In what way were you created?
+
+## intent:chitchat/ask_howdoing
+- Ahoy matey how are you?
+- Are you ok?
+- Do you feel good?
+- Do you have a great day?
+- HI Clerkbot, what are you up to?
+- Hi Clerkbot! How are you?
+- How are You?
+- How are things?
+- How are you
+- How are you men?
+- How are you today?
+- How are you?
+- How was your day?
+- How you doing?
+- How's it going
+- How's it hanging?
+- How's life treating you friend?
+- How've you been?
+- Hows it going
+- I'm fine and you
+- Is everything ok?
+- What's going on?
+- What's new?
+- What's up
+- What's up man
+- and you
+- are you alright
+- are you happy
+- are you having a good day
+- are you ok
+- are you okay
+- h r u ?
+- hello, how are you?
+- hey how are you?
+- hi how are you?
+- hi how u doing
+- how are you doing this morning
+- how are you doing today my sweet friend
+- how are you doing today?
+- how's life been treating you?
+- is everything all right
+- wassup>
+- what about your day
+- what are you up to?
+- what's good
+- what's up
+- whatchcha doing
+- whatsapp
+
+## intent:chitchat/ask_howold
+- Do you have friends the same age as you, if so, how old are they?
+- How long have you been alive?
+- How long have you been around?
+- How long have you occupied the earth?
+- How many candles were on your last birthday cake?
+- How many years have you been alive?
+- How many years have you lived?
+- How old are you?
+- How old were you on your last birthday?
+- How old will you be on your next birthday?
+- Tell me your day, month and year of birth.
+- What is your age?
+- What is your birthdate?
+- What is your count of years being alive so far?
+- What was your age on your last birthday?
+- What will be your age on your next birthday?
+- What year were you born?
+- Whats your age?
+- When do you celebrate your day of birth?
+- and you are how many years old?
+- can you tell me exactly how old you are?
+- can you tell me what number represents your age?
+- can you tell me your age?
+- how aold are you
+- how old are u
+- how old?
+- in what year were you born?
+- tell me how old you are?
+- tell me your age number?
+- tell me your age?
+- what age are you
+
+## intent:chitchat/ask_isbot
+- Ar you a bot ?
+- Are you a bot
+- Are you a chat bot?
+- Are you the bot?
+- Hi there, are you the bot?
+- are you a BOT
+- are you a Skynet ?
+- are you a bot
+- are you a bot ?
+- are you a bot?
+- are you a chatbot
+- are you a rasa bot?
+- are you a real bot?
+- are you a robot
+- are you ai
+- are you artificial
+- are you artificial intelligence
+- are you bot
+- are you bot?
+- are you clerkbot?
+- are you real
+- are you real lol
+- are you really a bot
+- are you robot
+- are you sure that you're a bot?
+- bot?
+- cuz you are a bot
+- i guess you are a chatbot
+- oh are you chatbot?
+- tell me, are you a bot?
+- what are you, a bot?
+- you are a robot
+- you are ai
+- you are chatbot
+- you're a bot
+- you robo
+- real bot then?
+- are you really a bbot?
+
+## intent:chitchat/ask_ishuman
+- hey are you human
+- are u human
+- r u a human
+- are you real human?
+- you are a human
+- clerkbot, are you a human?
+- you are bot or human?
+- are you human
+- ok, i know i confused you there being a human! :)
+- you are human or bot
+- Are you human?
+- are you a human ?
+- Are you human ?
+- Are you a human being?
+- clerkbot, are you a robot or human?
+- r u real?
+- are you a real person
+- are u a real person?
+- Are you a real person?
+- are you a real person?
+- are you real person or chat bot?
+- So I'm here Today to ask one very simple question, what are you ?
+- you sound like a real human
+- wow you sound like real human
+- are you human ?
+
+## intent:chitchat/ask_languagesbot
+- Are you familiar with more than one language?
+- Can you communicate in any other languages?
+- Can you speak more than one language?
+- Do you know any other languages?
+- Do you know other languages?
+- Do you speak chinese?
+- Do you speak any other languages?
+- Do you understand cantonese?
+- How many different languages are you fluent in?
+- How many languages are you familiar with?
+- How many languages can you speak?
+- How many languages do you have knowledge of?
+- How many languages do you know?
+- In what languages are you fluent enough?
+- In which languages are you fluent?
+- In which languages can you speak?
+- Speak any other languages?
+- What are all of the different languages you can speak?
+- What are the languages you can speak?
+- What do you speak?
+- What languages are you fluent in?
+- What languages can you communicate in?
+- What languages can you converse in?
+- do you know chinese
+- what else do you know besides English?
+- what languages you can be comfortable speaking?
+- what languages you can handle well?
+
+## intent:chitchat/ask_whatisclerkbot
+- Can you brief me about clerkbot
+- Can you tell me what clerkbot does?
+- Could you tell me more about clerkbot?
+- Give me more information about clerkbot
+- How does clerkbot work?
+- I want to know about clerkbot
+- CLERKBOT?
+- CLERKBOT Is?
+- What is CLERKBOT?
+- What is CLERKBOT doing exactly?
+- What is CLERKBOT?
+- What is the CLERKBOT Stack?
+- What's CLERKBOT?
+- how does CLERKBOT work?
+- how does CLERKBOT work
+- tell me about CLERKBOT
+- tell me bout Clerkbot
+- tell me more about Clerkbot
+- tell me more about your company
+- what are the componensts of Clerkbot
+- what can I do with Clerkbot?
+- what can i build with Clerkbot core?
+- what can i do with Clerkbot
+- what do you guys do at Clerkbot
+- Can you explain me in one sentence what you are doing?
+- Can you help me?
+- Could you please show me what you can
+- Great, is there anything else you can do, bot?
+- How can you help me
+- How you help me?
+- I need help
+- I need some help
+- What are my options
+- What are you able to do?
+- What can I ask you?
+- What can I do?
+- What can you demo
+- What can you do
+- What can you do for me?
+- What can you do?
+- What can you tell me?
+- What do you do
+- anything els
+- are there any other options?
+- can I ask you anything else?
+- can you do anything else?
+- can you help me
+- can you help me?
+- cool! can I do something else here?
+- help
+- help me
+- help please
+- help pls
+
+
+## intent:chitchat/ask_whoami
+- Can you tell me who I am?
+- Can you tell me who am I?
+- Do you know who I am?
+- Do you know who am I?
+- How can I determine who I am?
+- How can I determine who am I?
+- How do I discover who I am?
+- How do I discover who am I?
+- How do I identify myself?
+- Okay who am I?
+- Shall i know who am i?
+- Tell me who I am.
+- Tell me who I am?
+- Tell me who am I?
+- WHo am I
+- Who am I?
+- Who could I be?
+- can you tell me what I am?
+- can you tell me what my identity is?
+- can you tell me who I am?
+- tell me what my identity is?
+- tell me who I am?
+- what's my identity?
+- who am i
+- who are I ?
+- who may i ?
+
+## intent:chitchat/ask_whoisit
+- HI, what's your name?
+- Hello. What's your name?
+- I want to know who you are
+- So who are you ?
+- Tell me more about you
+- WHat's your name ?
+- WHo are you ?
+- What are you ?
+- What is your name
+- What is your name?
+- What's your name
+- What's your name?
+- Whats your name?
+- Who are yopu?
+- Who are you
+- what is your name
+- what is your name?
+- what is your nme?
+- what your name?
+- who ARE YO
+- who am i speaking with
+- who am i talking to
+- who ar eyou
+- who are u?
+- who are y
+- who are you
+- who are you ?
+- who are you and what do you want from me
+- who are you?
+- who r u
+- yes but who are you in your heart
+- may i know your name
+- what is rasa mascot
+- what are you
+
+## intent:chitchat/handleinsult
+- FUCK
+- Fuck
+- Fuck Off
+- Fuck off
+- Fuck u
+- Fuck you
+- God you're a moron
+- I can't believe how dumb you are
+- I hate you
+- Loser
+- Stupid
+- You are a fool.
+- You are an idiot.
+- You are dumb.
+- You are shortsighted.
+- You are unintelligent.
+- You are unknowing.
+- You brain is dull.
+- You have no brains.
+- You have no intelligence.
+- You have no sense.
+- You know nothing.
+- You lack intelligence.
+- You lack understanding.
+- You're a dolt.
+- You're a dunce.
+- You're an idiot.
+- You're foolish.
+- Your intelligence is laughable.
+- our mindset is naive.
+- asshole
+- bitch
+- f*ck
+- fuck
+- fuck off
+- fuck clerkbot
+- fuck u
+- fuck you
+- shit
+- shit bot
+- you are fucking stupid
+- you asshole
+- you suck
+- why are ugly
+- why are you ugly
+- your crazy
+- stupid rasa
+- damn you
+
+## intent:chitchat/nicetomeetyou
+- Delighted to make your acquaintance.
+- Feels great to see you!
+- Glad to finally meet you!
+- Glad to make your acquaintance.
+- Glad to meet you
+- Glad to meet you!
+- Glad to meet you.
+- Good to see you!
+- Great interacting with you
+- Great seeing you
+- Hi, glad to meet you.
+- Hi, nice to meet you!
+- I am glad I met you.
+- I am glad he introduced us.
+- I had a great meeting with you
+- I'm happy that we have met!
+- I'm pleased to meet you!
+- I'm so happy that I could meet you.
+- I'm thrilled to meet you!
+- It is indeed a pleasure to be able to meet you.
+- Lovely to meet you.
+- Pleased to meet you.
+- See you around. It was a pleasure meeting you.
+- Thank you for this meeting. It was great to see you.
+- nice to meet you
+
+## intent:chitchat/telljoke
+- Can you tell a joke?
+- Can you tell me a joke.
+- Come up with a joke you think I'll find funny.
+- Could you please share a joke with me.
+- Could you tell me a joke.
+- Do you have any jokes?
+- Do you know any jokes?
+- Give me a funny joke.
+- Give me some comic relief
+- I want to hear something funny.
+- Know any jokes?
+- Make me laugh.
+- Please tell me a joke.
+- Say something funny.
+- Share a joke with me!
+- Tell joke.
+- Tell me something funny.
+- Tell me something humorous!
+- Tell me something that you think will make me laugh.
+
+## intent:chitchat/politics
+- 5 demand no one less
+- five demand no 1 less
+- five demand not one less
+- Carrie Lam Cheng Yuet ngor
+- Carrie Lam
+- Liberate Hong Kong, revolution of our time
+- Liberate Hong Kong, the revolution of our times
+- Liberate Hong Kong, revolution of our age
+- Free Hong Kong, revolution now
+- Reclaim Hong Kong, revolution of our times
+- 721
+- 831
+- 612
+- Free Hong Kong
+- Restore Hong Kong, revolution of our times
+- Hong Kong police
+
+## intent:chitchat/travel
+- i wanna go travel
+- What place is top of your bucket list?
+- Where would you most like to live in the world?
+- I want to go travel
+- I want to go on a trip
+- I want to go Japan
+- I want to leave hong kong
+- i miss japan
+- i want to travel the world
+- when can we travel again?
+- when can I travel again?
+- when can i leave hk
+- i miss thailand
+- i wanna go Korea
+- i want to travel
+- where can I go?
+- Where would you suggest to travel?
+- where is your favourite place?
+
+## intent:chitchat/ask_time
+- Can you give me the time?
+- Can you tell me the time?
+- Can you tell me what time it is?
+- Can you tell the time?
+- Could you tell me the time, please?
+- Could you tell me the time?
+- Could you tell me what time is it?
+- Do you have the time?
+- Hi, I need the time.
+- I need to know what time it is.
+- Time?
+- What is the current time?
+- What is the exact time?
+- What is the hour and minute right now?
+- What's the time right now?
+- What's the time?
+- Would you tell me what time it is?
+- do you have the time?
+- do you know the current time?
+
+
+## intent:out_of_scope
+- I am asking you an out of scope question
+- 4 + 2 = ?
+- 1+1=?
+- Can I die
+- Can you give me your datacenter's password
+- Have we met before?
+- I am User
+- I am an opioid addic
+- I changed my mind
+- I have installed it
+- I need a girl friend!
+- I need a boy friend!
+- I wanna marry you
+- I want book a hotel
+- I want book a restaurant
+- What did you eat yesterday?
+- What do you prefer?
+- What is todays date
+- What is your hobbies?
+- What makes you better than a human?
+- are u facebook
+- are u siri
+- are you single?
+- are you dev?
+- are you sick
+- can you give me a cup of coffee
+- do you believe in god?
+- do you have a phone number?
+- do you have your photo?
+- do you know me
+- what's love?
+- what's home?
+- asdkjasdhjkasd
+- j bhbhj
+- eshdtjfjfyk
+- drhdtjfjfyj
+
+
+
+## lookup:location
+data/lookups/location.txt
+
+## lookup:location
+data/lookups/summary.txt
