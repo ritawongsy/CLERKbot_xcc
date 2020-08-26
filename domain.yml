@@ -1,6 +1,6 @@
 session_config:
   session_expiration_time: 60
-  carry_over_slots_to_new_session: true
+  carry_over_slots_to_new_session: false
 intents:
 - request_create_event
 - inform
@@ -126,8 +126,7 @@ responses:
   utter_default:
   - text: Sorry, I didn't understand. Try again...
   utter_map_link:
-  - text: "You can reach {destination} by driving, public transit, or walking.\nClick\
-      \ this link to the Google Maps page:\n{link}"
+  - text: "Click on the link below for directions to {destination}:\n{link}"
   utter_anything_else:
   - text: Let me know if you need anything else.
   utter_you_are_welcome:
@@ -187,7 +186,7 @@ responses:
   utter_ask_help:
   - text: How may I help?
   utter_ask_radius:
-  - text: 'Within how many meters? (Example: 500)'
+  - text: 'Within how many meters? (Example: 500 meters)'
   utter_ask_continue:
   - text: do you want to continue?
   utter_calendar_link:

@@ -138,7 +138,7 @@ class ActionCreateEvent(Action):
             else:
                 flow = InstalledAppFlow.from_client_secrets_file(
                     'credentials.json', SCOPES)
-                creds = flow.run_local_server(port=0)
+                creds = flow.run_local_server(port=5005)
             # Save the credentials for the next run
             with open('token.pkl', 'wb') as token:
                 pickle.dump(creds, token)
@@ -192,7 +192,7 @@ class ActionCreateEvent(Action):
                     added_event = service.events().insert(calendarId='primary', body=event).execute()
                     event_link = added_event.get('htmlLink')
                     success = "success"
-                    dispatcher.utter_message(text=f"Event Created. \n{event_link}")
+                    dispatcher.utter_message(text=f"Event Created. \n https://calendar.google.com/calendar/embed?src=xccproject12%40gmail.com&ctz=Asia%2FHong_Kong ")
                 except:
                     dispatcher.utter_message(text="Error: Unable to create event.")
                 return [SlotSet("success", success), SlotSet("time", time),SlotSet("end_time", end_time_ori),SlotSet("summary", summary),
@@ -328,9 +328,14 @@ class ActionRoutePlan(Action):
             # Get user's current location
             get_origin = requests.post(
             "https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyCtP9l7ye9ACQpAoYtr54P1lhj-Prt2NT0").json()
-            origin_lat = get_origin['location']['lat']
+            origin_lat = get_origin['location']['lat']  
             origin_lng = get_origin['location']['lng']
             origin =  "{},{}".format(origin_lat,origin_lng)
+
+            #new method of get uers's current location 
+            #res = requests.get('https://ipinfo.io/')
+            #data = res.json()
+            #origin =  data["loc"]
 
             # Setup destination
             destination = str(tracker.get_slot('location'))

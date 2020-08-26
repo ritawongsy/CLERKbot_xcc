@@ -377,6 +377,8 @@
 - okieeee
 - OKOK
 - OK
+- yea
+- Yea
 
 ## intent:deny
 - no
